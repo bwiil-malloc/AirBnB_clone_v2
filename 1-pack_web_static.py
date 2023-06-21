@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A modue for Fabric script that generates a .tgz archive."""
+"""A module for Fabric script that generates a .tgz archive."""
 import os
 from datetime import datetime
 from fabric.api import local, runs_once
